@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lumix TimeLapse</string>
+
+    <string name="lable_num_frames">Frames #</string>
+    <string name="num_frames"></string>
+
+    <string name="lable_num_delay">Delay (sec)</string>
+    <string name="num_delay">5</string>
+
+    <string name="button_doit">Do It!</string>
+
+    <string name="menu_settings">Settings</string>
+
+</resources>
